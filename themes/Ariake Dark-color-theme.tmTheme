@@ -763,6 +763,17 @@ punctuation.definition.array</string>
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markup: Inline</string>
+			<key>scope</key>
+			<string>markup.inline.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9aefea</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>C#: Operator</string>
 			<key>scope</key>
 			<string>source.cs keyword.operator</string>
